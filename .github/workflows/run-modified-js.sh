@@ -19,7 +19,7 @@ echo "run-sh: After parsing, file to execute: $b"
 #check if this is a .py file
 if [[ $b == *".js"* ]]; then
     echo "run-sh: This is a .js file, executing"
-    python3 $b
+    node $b
 else
     echo "run-sh: File modified is not a js file! Will not execute"
 fi
