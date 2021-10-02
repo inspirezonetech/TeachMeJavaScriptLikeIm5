@@ -1,6 +1,8 @@
-/** 
- * Tutorial: using comments in your code
- */
+/*
+-------------------------------------------------------------------------------------
+ Tutorial: using comments in your code
+-------------------------------------------------------------------------------------
+*/
 
 // Single line comments start with //. The text in the comment will be ignored by the program itself but can be used to make notes or explain what your code does.
 
@@ -10,6 +12,8 @@
 
 
 
-/** 
- * Challenge: 1. using single line comment to make this code say: "Hello": console.log("You")
- */
+/*
+-------------------------------------------------------------------------------------
+ Challenge: 1. using single line comment to make this code say: "Hello": console.log("You")
+-------------------------------------------------------------------------------------
+*/
