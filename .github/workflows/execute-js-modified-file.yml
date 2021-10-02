@@ -1,0 +1,36 @@
+name: execute-modified-js-file
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  job-execute-python:
+    runs-on: ubuntu-latest
+  
+    steps:
+  
+    # checkout repo
+    - uses: actions/checkout@v2
+    
+    - name: Setup Node.js environment
+      uses: actions/setup-node@v2.4.1
+
+    
+    # install dependencies if package.json exists
+    - name: Install dependencies
+      run: if [ -f package.json ]; then npm install; fi
+    
+    #use action to get file that changed
+    - uses: lots0logs/gh-action-get-changed-files@2.1.4
+      with:
+       token: ${{ secrets.GITHUB_TOKEN }}
+
+    # test if modified file will run
+    - name: Execute file
+      run: |
+        echo "job: running script to execute modified file:"
+        ./.github/workflows/run-modified-js.sh
+        echo "job: Done"

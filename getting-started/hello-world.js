@@ -1,13 +1,14 @@
 /*
 -------------------------------------------------------------------------------------
- Tutorial: brief description of tutorial content
+ Tutorial: using the log statement
 -------------------------------------------------------------------------------------
 */
 
-/* Code here explaining concept with comments to guide */
+// console.log is used to output to the console
+console.log("hello world");
 
 /*
 -------------------------------------------------------------------------------------
- Challenge: list challenges to be completed here. minimum of one challenge per tutorial
+ Challenge: 1. log "hello universe" to the console
 -------------------------------------------------------------------------------------
 */
