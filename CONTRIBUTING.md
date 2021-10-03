@@ -53,6 +53,19 @@ Go to the [issues](../../issues) page and either:
 */
 ```
 
+## Use [jshint]((https://jshint.com/install/)) linting to ensure format of code is consistent with repo
+
+To test your JavaScript file before submitting use the [online jshint tool](https://jshint.com/).
+
+Or install jshint:
+```
+npm install jshint
+```
+Then run a jshint check against the file:
+```
+jshint filename.js
+```
+
 ## How to submit your code to this repository - step by step guide
 
 Please use [pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests) to submit your contribution.
