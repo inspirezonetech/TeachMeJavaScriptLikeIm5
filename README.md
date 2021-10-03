@@ -3,7 +3,7 @@
 
 <img src="https://inspirezone.tech/wp-content/uploads/2021/10/Accepting-Contributions-for-Hacktoberfest-2021.png" width="300">
 
-![TeachMeJavaScriptLikeIm5](https://inspirezone.tech/wp-content/uploads/2021/10/TeachMeJavaScriptLikeIm5_Banner.png)
+[![TeachMeJavaScriptLikeIm5](https://inspirezone.tech/wp-content/uploads/2021/10/TeachMeJavaScriptLikeIm5_Banner.png)](https://inspirezone.tech/)
 
 ## 📜 About this repo 📜
 
@@ -19,4 +19,4 @@ Each file contains:
 |-------------------------------------------|----------------------------------------------------------------| 
 | **Getting started**                       |
 |Your first JS program                      | [hello-world.js](getting-started/hello-world.js)               |
-|Commenting                                 | [commenting.js](getting-started/commenting.js)                 |
+|Using comments in JS code                  | [commenting.js](getting-started/commenting.js)                 |
