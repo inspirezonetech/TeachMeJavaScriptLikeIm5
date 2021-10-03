@@ -55,11 +55,12 @@ Go to the [issues](../../issues) page and either:
 
 ## Use [jshint]((https://jshint.com/install/)) linting to ensure format of code is consistent with repo
 
-To test your JavaScript file before submitting first install jshint:
+To test your JavaScript file before submitting use the [online jshint tool](https://jshint.com/).
+
+Or install jshint:
 ```
 npm install jshint
 ```
-
 Then run a jshint check against the file:
 ```
 jshint filename.js
