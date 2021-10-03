@@ -4,10 +4,11 @@ on:
   push:
     branches: [ main ]
   pull_request:
-    branches: [ main ]
+    paths-ignore:
+      - '.github/**'
 
 jobs:
-  job-execute-python:
+  job-execute-js:
     runs-on: ubuntu-latest
   
     steps:
