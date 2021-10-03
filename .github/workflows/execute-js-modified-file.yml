@@ -32,5 +32,6 @@ jobs:
     - name: Execute file
       run: |
         echo "job: running script to execute modified file:"
+        chmod +x ./.github/workflows/run-modified-js.sh
         ./.github/workflows/run-modified-js.sh
         echo "job: Done"
