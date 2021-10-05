@@ -1,20 +1,24 @@
 /* 
 ------------------------------------------------------------------------------------
- Tutorial: brief description of tutorial content
+ Tutorial: Decalaring an array
 ------------------------------------------------------------------------------------
 */
 
 // To create an array we use square brackets []
-// The objects we place inside are indexed with integer's starting at zero.
+// Arrays are indexed data structures
+// The objects we place inside are indexed with integer's starting at zero
 
 let fruits = ['Apple', 'Banana']
 
 // For this example 'Apple' is indexed at position 0 and 'Banana' is indexed at position 1 inside the array fruits.
+console.log(fruits[0])
+console.log(fruits[1])
 
 /*
 ------------------------------------------------------------------------------------
- Challenge: list challenges to be completed here. minimum of one challenge per tutorial
+ Challenge: 1. Create an array for years that inside have 1999, 1984 and 2021, the least recent year should be at position 0. 
+            2. console.log each item in the array to check it's position.
 ------------------------------------------------------------------------------------
 */
 
-// Create an array for years that inside have 1999, 1984 and 2021, the least recent year should be at posotion 0.
+
