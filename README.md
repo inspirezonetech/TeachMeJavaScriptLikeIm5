@@ -18,5 +18,5 @@ Each file contains:
 | Tutorial                                  | Link                                                           | 
 |-------------------------------------------|----------------------------------------------------------------| 
 | **Getting started**                       |
-|Your first JS program                      | [hello-world.js](getting-started/hello-world.js)               |
-|Using comments in JS code                  | [commenting.js](getting-started/commenting.js)                 |
+|Your first JS program                      | [hello-world.js](1-getting-started/hello-world.js)             |
+|Using comments in JS code                  | [commenting.js](1-getting-started/commenting.js)               |
