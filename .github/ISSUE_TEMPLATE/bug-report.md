@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Report a bug or problem with repo
-title: "Your title"
+title: Your title
 labels: bug
 assignees: ''
 
