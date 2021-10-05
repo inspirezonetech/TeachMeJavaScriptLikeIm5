@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-
+Populate JS file with a tutorial and challenge.
