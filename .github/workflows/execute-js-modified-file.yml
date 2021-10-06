@@ -3,6 +3,8 @@ name: execute-modified-js-file
 on:
   push:
     branches: [ main ]
+    paths-ignore:
+      - '.jshintrc'
   pull_request:
     paths-ignore:
       - '.github/**'
