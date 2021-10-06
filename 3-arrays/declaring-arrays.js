@@ -8,7 +8,7 @@
 // Arrays are indexed data structures
 // The objects we place inside are indexed with integer's starting at zero
 
-let fruits = ['Apple', 'Banana'];
+var fruits = ['Apple', 'Banana'];
 
 // For this example 'Apple' is indexed at position 0 and 'Banana' is indexed at position 1 inside the array fruits.
 console.log(fruits[0]);
