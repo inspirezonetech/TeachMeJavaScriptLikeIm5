@@ -1,13 +1,16 @@
 /* 
 ------------------------------------------------------------------------------------
- Tutorial: brief description of tutorial content
+ Tutorial: Modify an array using indexes
 ------------------------------------------------------------------------------------
 */
 
-// Code here explaining concept with comments to guide
+// The most basic way to modify an array is to use indexes. We replace the element at the 0th index by 5.
+var numbers = [1, 2, 3, 4];
+numbers[0] = 5;
+console.log(numbers);
 
 /*
 ------------------------------------------------------------------------------------
- Challenge: list challenges to be completed here. minimum of one challenge per tutorial
+ Challenge: If a number in an array of numbers is even, then multiply it by 2
 ------------------------------------------------------------------------------------
 */
