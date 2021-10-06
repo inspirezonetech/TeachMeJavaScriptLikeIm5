@@ -17,7 +17,7 @@ console.log(fruits[1]);
 /*
 ------------------------------------------------------------------------------------
  Challenge: 1. Create an array for years that inside have 1999, 1984 and 2021, the least recent year should be at position 0. 
-            2. console.log each item in the array to check it's position.
+            2. console.log each item in the array to check its position.
 ------------------------------------------------------------------------------------
 */
 
