@@ -72,6 +72,13 @@ console.log(add(5, 6)); // will print 11 in the console
 
 /*
 ------------------------------------------------------------------------------------
- Challenge: list challenges to be completed here. minimum of one challenge per tutorial
+ Challenge: create a function "welcomeUser" which will take username as an input and returns "Welcome " + passed username as an output.
+ 
+ -> your function name should be "welcomeUser".
+ -> parameter name should be "userName".
+ -> return Welcome + passed username value as an return value.
+ -> pass your name as an argument to the "welcomeUser" function.
+ -> store that return value in a new variable named as "greeting".
+ -> use console.log() to show the greeting value.
 ------------------------------------------------------------------------------------
 */
