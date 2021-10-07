@@ -31,7 +31,7 @@ let output;
 while (true) { //endless loop
 	// some code
 	
-	const data = Math.floor(Math.rand() * 100);
+	const data = Math.floor(Math.random() * 100);
 	
 	if(data % 2 == 0) {
 		output = data;
