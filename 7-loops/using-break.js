@@ -21,6 +21,7 @@ for (let i = 0; i<array.length; i++ ){ //loop through whole array
 	*/
 } 
 //first instruction after break goes here
+console.log("Efficient loop: " + found) ;
 
 /* Escaping endless loop
 You can use break to escape endless loop
@@ -30,9 +31,9 @@ let output;
 while (true) { //endless loop
 	// some code
 	
-	const data = downloadDataFromServer();
+	const data = Math.floor(Math.rand() * 100);
 	
-	if(data != null) {
+	if(data % 2 == 0) {
 		output = data;
 		break; //escape the loop on data
 	} 
@@ -40,6 +41,7 @@ while (true) { //endless loop
 	// more code
 } 
 //first instruction after break
+console.log("Endless loop: " + output);
 
 /*
 ------------------------------------------------------------------------------------
