@@ -11,6 +11,6 @@ console.log(numbers);
 
 /*
 ------------------------------------------------------------------------------------
- Challenge: If a number in an array of numbers is even, then multiply it by 2
+ Challenge: Given an array of positive integers above, if a number in the array of numbers is even, then multiply it by 2
 ------------------------------------------------------------------------------------
 */
