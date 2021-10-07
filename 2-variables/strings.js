@@ -68,6 +68,16 @@ console.log(str); // will print "WOW" and not "NOW"
 
 /*
 ------------------------------------------------------------------------------------
- Challenge: list challenges to be completed here. minimum of one challenge per tutorial
+ Challenge: write a program to join your first name and last name in a single string.
+
+ -> declare a variable "firstName" and initialize it with your first name. 
+ -> declare a variable "lastName" and initialize it with your last name.
+ -> declare a variable "fullName" and assign it the concatenated value of "firstName" + "lastName" using "+" operator.
+ -> use console.log() and print the fullName in the console.
+
+ example:- if firstname is "sourabh" and lastname is "kheraliya" so output should be "sourabhkheraliya" as fullname.
+
+ 🏋️‍♀️BONUS: there should be a space between your firstname and lastname.
+   (HINT: you can add additional space in the end of your firstName string just like example of string concatenation concept explained above)
 ------------------------------------------------------------------------------------
 */
