@@ -269,6 +269,55 @@ console.log('8' <= 4); // will print false becuase 8 is neither less than nor eq
 
 /*
 ------------------------------------------------------------------------------------
+🌟LOGICAL OPERATORS: Sometimes we need to compare more than one values i.e multiple comparison expressions and logical operators allow us to do that. (It returns a boolean true/false)
+
+🌟LIST OF LOGICAL OPERATORS:-
+
+1. LOGICAL AND (&&)
+2. LOGICAL OR (||)
+3. LOGICAL NOT (!)
+------------------------------------------------------------------------------------
+*/
+
+/*
+------------------------------------------------------------------------------------
+1.LOGICAL AND (&&):-
+- Sometime we need to test more than one thing at a time.
+- The logical AND (&&) operator will return true if and only if the operands to the left and right are true.
+------------------------------------------------------------------------------------
+*/
+
+// LOGICAL AND OPERATOR EXAMPLE:-
+console.log((5 > 3) && (5 <= 10)); // will print true because (5 > 3) => TRUE & (5 <= 10) => TRUE (BOTH OPERANDS ARE TRUE).
+console.log((5 > 3) && (5 >= 10)); // will print false because (5 > 3) => TRUE & (5 >= 10) => FALSE (BOTH OPERANDS ARE NOT TRUE).
+
+/*
+------------------------------------------------------------------------------------
+2.LOGICAL OR (||):-
+- The logical OR operator returns true if either of the operands is true otherwise it returns false.
+------------------------------------------------------------------------------------
+*/
+
+// LOGICAL OR OPERATOR EXAMPLE:-
+console.log((5 > 3) || (5 <= 10)); // will print true (BOTH OPERANDS ARE TRUE)
+console.log((5 > 3) || (5 >= 10)); // will print true (ONLY ONE OPERAND IS TRUE)
+console.log((5 < 3) || (5 >= 10)); // will pritn false (BOTH OPERANDS ARE FALSE)
+
+/*
+------------------------------------------------------------------------------------
+3.LOGICAL NOT (!):-
+- The logical NOT operator returns the opposite boolean value onto which its applied.
+e.g: (!true) => false
+     (!false) => true
+------------------------------------------------------------------------------------
+*/
+
+// LOGICAL NOT OPERATOR EXAMPLE:-
+console.log(!(5 > 3)); // 5 > 3 i.e true but it will return opposite boolean i.e false
+console.log(!(5 < 3)); // 5 < 3 i.e false but it will return opposite boolean i.e true 
+
+/*
+------------------------------------------------------------------------------------
  Challenge: list challenges to be completed here. minimum of one challenge per tutorial
 ------------------------------------------------------------------------------------
 */
