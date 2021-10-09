@@ -318,6 +318,72 @@ console.log(!(5 < 3)); // 5 < 3 i.e false but it will return opposite boolean i.
 
 /*
 ------------------------------------------------------------------------------------
- Challenge: list challenges to be completed here. minimum of one challenge per tutorial
+ Challenge: You have to guess the output of the following expressions and write the answers in comment:-
+
+ 1. (5 + 5)                                        answer => 
+ 2. (5 - 5)                                        answer => 
+ 3. (5 * 5)                                        answer =>  
+ 4. (5 / 5)                                        answer =>  
+ 5. (5 % 5)                                        answer =>  
+ 6. ("5" + 5)                                      answer =>  
+ 7. ("5" + "5")                                    answer =>
+ 8. (5 + true)                                     answer =>  
+ 9. ("5" + true)                                   answer =>
+ 10. (true + true)                                 answer =>
+ 11. (true + false)                                answer =>
+ 12. (false + false)                               answer =>
+ 13. (5 == 5)                                      answer =>
+ 14. (5 == 6)                                      answer =>
+ 15. ("5" == 5)                                    answer =>
+ 16. ("5" == 6)                                    answer =>
+ 17. ("5" == "5")                                  answer =>
+ 18. ("5" == "6")                                  answer =>
+ 19. ("1" == true)                                 answer =>
+ 20. ("1" == false)                                answer => 
+ 21. (5 === 5)                                     answer =>
+ 22. ("5" === 5)                                   answer =>
+ 23. ("5" === "5")                                 answer =>
+ 24. (true === 1)                                  answer =>
+ 25. (false === 0)                                 answer =>
+ 26. (5+1 === 4+2)                                 answer =>
+ 27. (5 != 5)                                      answer =>
+ 28. (5 != 6)                                      answer =>
+ 29. (5 != "6")                                    answer =>
+ 30. (6 != "6")                                    answer =>
+ 31. (true != 1)                                   answer =>
+ 32. (false != 0)                                  answer =>
+ 33. (5 !== 5)                                     answer =>
+ 34. (5 !== 6)                                     answer =>
+ 35. ("5" !== 6)                                   answer =>
+ 36. ("5" !== "6")                                 answer =>
+ 37. ("5" !== "5")                                 answer =>
+ 38. (5 > 6)                                       answer =>
+ 39. (6 > 5)                                       answer =>
+ 40. (5 > 5)                                       answer =>
+ 41. ("5" > 6)                                     answer =>
+ 42. ("5" < 6)                                     answer =>
+ 43. ("5" > true)                                  answer =>
+ 44. ("5" > false)                                 answer =>
+ 45. (true > false)                                answer =>
+ 46. (false < true)                                answer =>
+ 47. (5 >= 6)                                      answer =>
+ 48. ("5" >= 6)                                    answer =>
+ 49. (5 >= 5)                                      answer =>
+ 50. (5 <= 5)                                      answer =>
+ 51. (5 <= "5")                                    answer =>
+ 52. (5 <= true)                                   answer =>
+ 53. (false <= false)                              answer =>
+ 54. (0 <= false)                                  answer =>
+ 55. (true >= false)                               answer =>
+ 56. (true && false)                               answer =>
+ 57. (true && true)                                answer =>
+ 58. (true && false && true && false && true)      answer =>
+ 59. (true || false || true || false || true)      answer =>
+ 60. (5 > 3 && "3" === 3)                          answer =>
+ 61. (5 > 3 || "3" === 3)                          answer =>
+ 62. (!(5>3))                                      answer =>
+ 63. (!(5<3))                                      answer =>
+ 64. (!true)                                       answer =>
+ 65. (!false)                                      answer =>
 ------------------------------------------------------------------------------------
 */
