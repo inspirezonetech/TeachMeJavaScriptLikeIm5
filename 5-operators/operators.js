@@ -17,8 +17,8 @@
 */
 
 // ASSIGNMENT OPERATOR EXAMPLES
-let num1 = 6; // assigning 6 to the num1 variable
-let num2 = 5; // assigning 5 to the num2 variable
+var num1 = 6; // assigning 6 to the num1 variable
+var num2 = 5; // assigning 5 to the num2 variable
 
 /* 
 ------------------------------------------------------------------------------------
@@ -313,8 +313,10 @@ e.g: (!true) => false
 */
 
 // LOGICAL NOT OPERATOR EXAMPLE:-
-console.log(!(5 > 3)); // 5 > 3 i.e true but it will return opposite boolean i.e false
-console.log(!(5 < 3)); // 5 < 3 i.e false but it will return opposite boolean i.e true 
+var resultOne = 5 > 3;
+var resultTwo = 5 < 3;
+console.log(!resultOne); // resultOne =  5 > 3 i.e true but it will return opposite boolean i.e false
+console.log(!resultTwo); // resultTwo = 5 < 3 i.e false but it will return opposite boolean i.e true 
 
 /*
 ------------------------------------------------------------------------------------
