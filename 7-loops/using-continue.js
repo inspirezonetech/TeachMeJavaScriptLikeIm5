@@ -15,7 +15,7 @@ let arr = [
     108,
     'number',
     "world"
-]
+];
 
 let output = "";
 
