@@ -6,10 +6,10 @@
 
 // Loops are used to run the same code again and again, each time with different or same values.
 // For example, consider that you have to display the numbers from 1 to 100. This would mean that we have to write the below statement 100 times.
-console.log(1)
-console.log(2)
-console.log(3)
-console.log(4)
+console.log(1);
+console.log(2);
+console.log(3);
+console.log(4);
 // And it continues forever.
 
 // In order to overcome this problem, we have loops.
