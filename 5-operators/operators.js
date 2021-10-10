@@ -120,7 +120,7 @@ console.log(num2); //will print 4
 console.log(1 == 1); // will print true
 console.log(1 == 2); // will print false
 
-// comapring number and string
+// comparing number and string
 console.log(1 == "1"); // will print true
 console.log("3" == 3); // will print true
 console.log("3" == 5); // will print false
