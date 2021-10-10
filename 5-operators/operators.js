@@ -154,7 +154,9 @@ console.log(2 === "3"); // will print false
 
 /* 
 ------------------------------------------------------------------------------------
-3.INEQUALITY OPERATOR:- The inequality operator (!=) is opposite of equality operator (==).
+3.INEQUALITY OPERATOR:- 
+
+The inequality operator (!=) is opposite of equality operator (==).
 
 It will return true if the value being compared are not equal and false if values are equal.
 
