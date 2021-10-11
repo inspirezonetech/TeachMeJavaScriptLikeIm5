@@ -55,7 +55,7 @@ console.log(parseFloat(floatString) + 50.5);
 /* here we iterate through an array of numbers, creating a new array with the original
 numbers multiplied by 10 with an arrow function (could also be an arrow function) */
 const numbersArray = [4, 500, 3.5];
-console.log(numbersArray.map(function(input) {return input * 10}));
+console.log(numbersArray.map(function(input) {return input * 10;}));
 
 /* you can also call a function (reference it without parentheses so that it can be used
 as a callback) in map() */
