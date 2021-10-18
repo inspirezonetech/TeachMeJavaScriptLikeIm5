@@ -4,11 +4,12 @@
 ------------------------------------------------------------------------------------
 */
 
-// JavaScript has only one type of number. Numbers can be written with or without decimals.
+// JavaScript has only one type of number. Numbers can be written with or without decimals. Negative numbers are declared by placing a minus (-) character before the number.
 
 // DECLARATION:-
 let x = 3.14; // A number with decimals
 let y = 3; // A number without decimals
+let z = -4; //A negative number
 //Use "typeof" operator to find the type of x:
 typeof(x); //returns 'number'
 
@@ -19,19 +20,19 @@ typeof(x); //returns 'number'
 
 //PRECISION:-
 //Integers are accurate up to 15 digits.Example:
-let x = 999999999999999; // x will be 999999999999999
-let y = 9999999999999999; // y will be 10000000000000000
+let n = 999999999999999; // n will be 999999999999999
+let m = 9999999999999999; // m will be 10000000000000000
 
 //The maximum number of decimals is 17, but floating point arithmetic is not always 100% accurate.Example:
-let x = 0.2 + 0.1; // x will be 0.30000000000000004
+let p = 0.2 + 0.1; // p will be 0.30000000000000004
 
 //NaN - Not a Number:-
 // NaN is a JavaScript reserved word indicating that a number is not a legal number.
 //Trying to do arithmetic with a non-numeric string will result in NaN.Example:
-let x = 100 - "Apple"; // x will be NaN (Not a Number)
+let n = 100 - "Apple"; // n will be NaN (Not a Number)
 
 //However, if the string contains a numeric value , the result will be a number:
-let x = 100 / "10"; // x will be 10
+let c = 100 / "10"; // c will be 10
 
 //Number() Function:-
 //The Number() function is used to convert various data types to numbers. For example,
