@@ -6,7 +6,7 @@
 // Loops are used to run the same code again and again, each time with different or same values.
 // The while loop loops through the block till it satisfies the condition
 
-// print even numbers until 20
+// how to print even numbers until 20
 var i = 0;  // initialized a variable with zero
 
 // while loop runs from i = 0 to 18 because we want numbers until 20
