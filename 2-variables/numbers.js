@@ -10,8 +10,7 @@
 let x = 3.14; // A number with decimals
 let y = 3; // A number without decimals
 let z = -4; //A negative number
-//Use "typeof" operator to find the type of x:
-typeof(x); //returns 'number'
+
 
 // Extra large or extra small numbers can be written with scientific (exponent) notation
 
@@ -29,7 +28,7 @@ let p = 0.2 + 0.1; // p will be 0.30000000000000004
 //NaN - Not a Number:-
 // NaN is a JavaScript reserved word indicating that a number is not a legal number.
 //Trying to do arithmetic with a non-numeric string will result in NaN.Example:
-let n = 100 - "Apple"; // n will be NaN (Not a Number)
+let d = 100 - "Apple"; // d will be NaN (Not a Number)
 
 //However, if the string contains a numeric value , the result will be a number:
 let c = 100 / "10"; // c will be 10
