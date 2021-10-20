@@ -22,7 +22,7 @@ var testObj = { firstName: 'Jane',
 // 'prop' can be named anything, it is a variable that a property is assigned to in each iteration (ie, firstName, lastName etc). 'testObj' will be the name of the object being iterated over. 
 
 for (const prop in testObj) {
-  console.log(`${prop}: ${testObj[prop]}`)
+    console.log(`${prop}: ${testObj[prop]}`);
 }
 
 //In the above example, we can view the key with 'prop', and the value with 'testObj[prop]'. Expected Output:
@@ -35,7 +35,7 @@ for (const prop in testObj) {
 //If you want to access a specific property, a conditional can be used:
 for (const prop in testObj) {
   if( prop === 'email') {
-    console.log(testObj[prop])
+      console.log(testObj[prop]);
   }
 } //Expected output: "jane@janedoe.com"
 
