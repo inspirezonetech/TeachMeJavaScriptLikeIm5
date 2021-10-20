@@ -72,5 +72,5 @@ var people = {
 //"jane@janedoe.com"
 //"john@johnsmith.com" 
 
-//Hint: people.id1.email or people.id2.email will access the specified objects email. The same dot notation can be applied to the 'people' object and it's properties using the for...in loop
+//Hint: people.id1.email or people.['id1']['email'] will access the specified objects email. The same dot notation can be applied to the 'people' object and it's properties using the for...in loop
 
