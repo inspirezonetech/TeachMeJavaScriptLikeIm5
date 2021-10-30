@@ -37,6 +37,42 @@ console.log(userName[2]); // will print "u"
 //🌟ACCESS LAST ENTRY: Since index starts from "0", to access last entry we need to subtract 1 from total string length.
 console.log(userName[userName.length - 1]); // will print "h"
 
+/* 
+  🌟 TEMPLATE LITERALS -
+
+  -> Apart from defining strings in JavaScript using single quotes ('') or double quotes (""), there is a third way to define strings in Javascript too!
+    - We can define strings using backtick quotes (``) as well. For example - `Greetings!`
+    - These type of strings are called as Template Literals or Template strings.
+    - The benefit of using Template literals are that, it allows us to embed variables & expressions inside the string.
+      - This can be done using wrapping the expression inside of ${...} in the string.
+      - The value returned by the expression will then become a part of the string.
+      - TODO - After you learn about the various types of expressions in Javascript, try embedding the various types in template strings to see how they work.
+*/
+
+let userName = "Niles";
+let numberOfTasksToday = 5;
+
+console.log(`Greetings ${userName}, you have ${numberOfTasksToday} tasks to be done today.`); // Logs "Greetings Niles, you have 5 tasks to be done today."
+
+/* 
+    Multiline strings using Template Literals
+      - Template Literals can be used to form multi-line strings.
+      - This is easier than concatenating multiple single-line strings using the concatenation '+' operator.
+*/
+
+let multiLineString1 = "Line 1\n" + //Multi-line string using the concatenation operator
+"Line 2\n" +
+"Line 3";
+
+// Multi-line string using template literal without using the concatenation operator.
+let multiLineString2 = `Line 1
+Line 2
+Line 3`;
+
+// Both console.logs will log the same output to the console.
+console.log(multiLineString1);
+console.log(multiLineString2); 
+
 
 /*
 🌟STRING IMMUTABILITY:-
@@ -68,7 +104,7 @@ console.log(str); // will print "WOW" and not "NOW"
 
 /*
 ------------------------------------------------------------------------------------
- Challenge: write a program to join your first name and last name in a single string.
+ Challenge 1: write a program to join your first name and last name in a single string.
 
  -> declare a variable "firstName" and initialize it with your first name. 
  -> declare a variable "lastName" and initialize it with your last name.
@@ -79,5 +115,22 @@ console.log(str); // will print "WOW" and not "NOW"
 
  🏋️‍♀️BONUS: there should be a space between your firstname and lastname.
    (HINT: you can add additional space in the end of your firstName string just like example of string concatenation concept explained above)
+------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------
+ Challenge 2: Write a dialogue script!
+
+ -> Step 1: Declare 3 variables and initialize them with random names for 2 heroes and 1 villain.
+ -> Step 2: Using what you learned about Template literals, write a dialogue flow between the 2 heroes, discussing about the villain you declared.
+ -> Step 3: Make sure that the dialogue flow spans over multiple lines.
+ -> Step 4: Finally, use console.log() to log the the dialogue script to the console.
+
+ Dialogue script structure:
+ <Hero1>: <dialogue>
+ <Hero2>: <dialogue>
+ .
+ .
+ and so on.
+
 ------------------------------------------------------------------------------------
 */
