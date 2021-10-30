@@ -52,7 +52,7 @@ console.log(userName[userName.length - 1]); // will print "h"
 let userFullName = "Niles Maxwell";
 let numberOfTasksToday = 5;
 
-console.log(`Greetings ${userName}, you have ${numberOfTasksToday} tasks to be done today.`); // Logs "Greetings Niles, you have 5 tasks to be done today."
+console.log(`Greetings ${userFullName}, you have ${numberOfTasksToday} tasks to be done today.`); // Logs "Greetings Niles Maxwell, you have 5 tasks to be done today."
 
 /* 
     Multiline strings using Template Literals
