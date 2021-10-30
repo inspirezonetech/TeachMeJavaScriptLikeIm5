@@ -49,7 +49,7 @@ console.log(userName[userName.length - 1]); // will print "h"
       - TODO - After you learn about the various types of expressions in Javascript, try embedding the various types in template strings to see how they work.
 */
 
-let userName = "Niles";
+let userFullName = "Niles Maxwell";
 let numberOfTasksToday = 5;
 
 console.log(`Greetings ${userName}, you have ${numberOfTasksToday} tasks to be done today.`); // Logs "Greetings Niles, you have 5 tasks to be done today."
