@@ -121,7 +121,8 @@ console.log(str); // will print "WOW" and not "NOW"
  Challenge 2: Write a dialogue script!
 
  -> Step 1: Declare 3 variables and initialize them with random names for 2 heroes and 1 villain.
- -> Step 2: Using what you learned about Template literals, write a dialogue flow between the 2 heroes, discussing about the villain you declared.
+ -> Step 2: Using what you learned about Template literals, write a dialogue flow between the 2 heroes, discussing about the villain you declared
+            and assign it to a variable.
  -> Step 3: Make sure that the dialogue flow spans over multiple lines.
  -> Step 4: Finally, use console.log() to log the the dialogue script to the console.
 
