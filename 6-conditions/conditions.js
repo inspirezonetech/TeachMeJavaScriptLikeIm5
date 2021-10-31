@@ -73,6 +73,23 @@ if (false) {
 
 // Output undefined
 
+// 
+// Conditional (ternary) operator
+// 
+
+// a ternary is an one line condition. It is a shortcut for the if statement.
+// The conditional (ternary) operator is the only JavaScript operator that takes three operands:
+// - the condition
+// - an expression to execute if the condition is truthy followed by colon (:)
+// - the expression to execute if the condition is falsy.
+
+// GENERAL SYNTAX:
+// condition ? exprIfTrue : exprIfFalse
+
+// example:
+
+const isWoman = sexe === 'woman' ? true : false;
+
 
 /*
 ------------------------------------------------------------------------------------
