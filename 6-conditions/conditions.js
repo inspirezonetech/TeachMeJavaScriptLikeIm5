@@ -71,13 +71,16 @@ if (false) {
       console.log("else if block");
 }
 
-// Output undefined
-
 
 // Ternary Operator
 // This operator executes the line after question mark if the given condition is true, else executes the line after colon.
 // Useful for creating short condtionals that do not take up much space.
-(10>5)?console.log("Ternary true statement"):console.log("Ternary false statement");
+
+(true) ? (console.log("Ternary true statement")) : (console.log("Ternary false statement"));
+
+
+// Output undefined
+
 
 
 /*
