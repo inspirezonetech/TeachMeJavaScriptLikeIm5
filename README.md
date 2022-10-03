@@ -28,7 +28,7 @@ Each file contains:
 |Strings in JavaScript                      | [boolean.js](2-variables/strings.js)                           |
 |                                           |                                                                |
 | **Arrays**                                |                                                                |
-|Declaring an array                         | [declaring-arrays.js](2-arrays/declaring-arrays.js)            |
-|Indexing Arrays                            | [indexing-arrays.js](2-arrays/indexing-arrays.js)              |
-|Modify an array using indexes             | [modifying-arrays.js ](2-arrays/modifying-arrays.js )          |
+|Declaring an array                         | [declaring-arrays.js](3-arrays/declaring-arrays.js)            |
+|Indexing Arrays                            | [indexing-arrays.js](3-arrays/indexing-arrays.js)              |
+|Modify an array using indexes              | [modifying-arrays.js ](3-arrays/modifying-arrays.js )          |
 
