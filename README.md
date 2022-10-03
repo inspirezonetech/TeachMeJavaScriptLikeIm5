@@ -20,3 +20,8 @@ Each file contains:
 | **Getting started**                       |
 |Your first JS program                      | [hello-world.js](1-getting-started/hello-world.js)             |
 |Using comments in JS code                  | [commenting.js](1-getting-started/commenting.js)               |
+|                                           |                                                                |
+| **Variables**                             |                                                                |
+|Create variables                           | [creating-variables.js](2-variables/creating-variables.js)     |
+|JavaScript Numbers                         | [numbers.js](2-variables/numbers.js)                           |
+|Booleans in JavaScript                     | [boolean.js](2-variables/boolean.js)                           |
