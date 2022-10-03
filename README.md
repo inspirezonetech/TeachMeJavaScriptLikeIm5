@@ -32,7 +32,7 @@ Each file contains:
 |Indexing Arrays                            | [indexing-arrays.js](3-arrays/indexing-arrays.js)              |
 |Modify an array using indexes              | [modifying-arrays.js ](3-arrays/modifying-arrays.js )          |
 |                                           |                                                                |
-| **Object**                                |                                                                |
+| **Objects**                                |                                                                |
 |Javascript Object Iteration                | [iterate-over-objects.js](4-objects/iterate-over-objects.js)   |
 |Using Objects (Basics)                     | [using-objects-basic.js](4-objects/using-objects-basic.js)     |
 |Using Objects (Advanced)                   | [using-objects-advanced.js](4-objects/using-objects-advanced.js) |
