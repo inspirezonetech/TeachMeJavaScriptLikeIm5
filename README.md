@@ -40,6 +40,12 @@ Each file contains:
 | **Operators**                               |                                                              |
 |Operators in JavaScript                    | [operators.js](5-operators/operators.js )                      |
 |                                           |                                                                |
-| **Conditions**                            |                                                             |
-|Conditionals                               | [conditions.js](5-conditions/conditions.js )                   |
+| **Conditions**                            |                                                                |
+|Conditionals                               | [conditions.js](6-conditions/conditions.js )                   |
+|                                           |                                                                |
+| **Loops**                                 |                                                                |
+|To understand the working of for-loops     | [for-loop.js](7-loops/for-loop.js )                            |
+|Breaking loops - break instruction         | [using-break.js](7-loops/using-break.js )                      |
+|Skipping iterations - continue instruction | [using-continue.js](7-loops/using-continue.js )                |
+|To understand the working of while-loops   | [while-loops.js](7-loops/while-loops.js )                      |
 
