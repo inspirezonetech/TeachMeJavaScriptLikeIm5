@@ -18,10 +18,11 @@ if( age > 18 ){
 
 // ternary-operator example II
 age = 42;
-age > 18 ?
-console.log("You are an adult") :
-console.log("You are not an adult");
-         
+let x = age > 18 ?
+        console.log("You are an adult") :
+        console.log("You are not an adult");
+
+console.log(x);
 
 /*** Ternary Operator Structure
     condition ?
