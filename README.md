@@ -39,4 +39,7 @@ Each file contains:
 |                                           |                                                                |
 | **Operators**                               |                                                              |
 |Operators in JavaScript                    | [operators.js](5-operators/operators.js )                      |
+|                                           |                                                                |
+| **Conditions**                            |                                                             |
+|Conditionals                               | [conditions.js](5-conditions/conditions.js )                   |
 
