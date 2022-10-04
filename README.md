@@ -51,4 +51,5 @@ Each file contains:
 |                                           |                                                                |
 | **Functions**                             |                                                                |
 |Functions in JavaScript                    | [functions.js](8-functions/functions.js )                      |
+|JavaScript's common built-in functions     | [functions.js](9-common-built-in-functions/common-built-in-functions.js )       |
 
