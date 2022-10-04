@@ -36,4 +36,7 @@ Each file contains:
 |Javascript Object Iteration                | [iterate-over-objects.js](4-objects/iterate-over-objects.js)   |
 |Using Objects (Basics)                     | [using-objects-basic.js](4-objects/using-objects-basic.js)     |
 |Using Objects (Advanced)                   | [using-objects-advanced.js](4-objects/using-objects-advanced.js) |
+|                                           |                                                                |
+| **Operators**                               |                                                              |
+|Operators in JavaScript                    | [operators.js](5-operators/operators.js )                      |
 
