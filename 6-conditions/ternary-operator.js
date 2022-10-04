@@ -9,20 +9,14 @@
 
 // if-else block example I
 let age = 17;
+let true_case = "You are an adult"
+let false_case = "You are not an adult"   
 
 if( age > 18 ){
-    console.log("You are an adult");
+    console.log(true_case);
 } else{
-    console.log("You are not an adult");
+    console.log(false_case);
 }
-
-// ternary-operator example II
-age = 42;
-let x = age > 18 ?
-        console.log("You are an adult") :
-        console.log("You are not an adult");
-
-console.log(x);
 
 /*** Ternary Operator Structure
     condition ?
@@ -30,13 +24,25 @@ console.log(x);
     "The condition is false"
 ***/
 
-// ternary-operator example III ( return value)
-age = 10;
+// ternary-operator example II ( return value)
+age = 42;
 let msg = age > 18 ?
-          "You are an adult" :
-          "You are not an adult";
+          true_case:
+          false_case;
 
 console.log(msg);
+
+
+// ternary-operator example III ( return undefined )
+// if the branches of the ternary-operator are not expressions
+// the block return undefined 
+age = 15;
+let x = age > 18 ?
+        console.log(true_case) :
+        console.log(false_case);
+        
+console.log(x);
+
 
 
 /*
