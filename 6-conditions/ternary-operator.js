@@ -9,8 +9,8 @@
 
 // if-else block example I
 let age = 17;
-let true_case = "You are an adult"
-let false_case = "You are not an adult"   
+let true_case = "You are an adult";
+let false_case = "You are not an adult";   
 
 if( age > 18 ){
     console.log(true_case);
