@@ -8,19 +8,19 @@
 // Is a simple way of make an if-else block 
 
 // if-else block example I
-let age = 17 
+let age = 17;
 
 if( age > 18 ){
-    console.log("You are an adult")
+    console.log("You are an adult");
 } else{
-    console.log("You are not an adult")
+    console.log("You are not an adult");
 }
 
 // ternary-operator example II
-age = 42
+age = 42;
 age > 18 ?
 console.log("You are an adult") :
-console.log("You are not an adult")        
+console.log("You are not an adult");
          
 
 /*** Ternary Operator Structure
@@ -30,12 +30,12 @@ console.log("You are not an adult")
 ***/
 
 // ternary-operator example III ( return value)
-age = 10
+age = 10;
 let msg = age > 18 ?
           "You are an adult" :
-          "You are not an adult"
+          "You are not an adult";
 
-console.log(msg)
+console.log(msg);
 
 
 /*
