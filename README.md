@@ -24,7 +24,7 @@ Each file contains:
 | Create variables                           | [creating-variables.js](2-variables/creating-variables.js)                  |
 | JavaScript Numbers                         | [numbers.js](2-variables/numbers.js)                                        |
 | Booleans in JavaScript                     | [booleans.js](2-variables/booleans.js)                                        |
-| Strings in JavaScript                      | [boolean.js](2-variables/strings.js)                                        |
+| Strings in JavaScript                      | [strings.js](2-variables/strings.js)                                        |
 | **Arrays**                                 |                                                                             |
 | Declaring an array                         | [declaring-arrays.js](3-arrays/declaring-arrays.js)                         |
 | Indexing Arrays                            | [indexing-arrays.js](3-arrays/indexing-arrays.js)                           |
