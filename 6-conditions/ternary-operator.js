@@ -18,24 +18,23 @@ if( age > 18 ){
     console.log(false_case);
 }
 
-/*** Ternary Operator Sintax:
+/*** Ternary Operator Syntax:
     condition ?
     "The condition is True" :
     "The condition is false"
 ***/
 
 // ternary-operator example
+// this is exactly the same condition than before with the if-else block but it can be in one line instead of multiple lines
 age = 42;
-let msg = age > 18 ?
-          true_case:
-          false_case;
+let msg = age > 18 ? true_case: false_case;
 
 console.log(msg);
 
 
 /*
 -------------------------------------------------------------------------------------
- Challenge: list challenges to be completed here. minimum of one challenge per tutorial
+ Challenge: ternary-operator challenges
 
     1. Use the ternary-operator to log a message if number is positive or not
     2. Determine if an array is empty or not
