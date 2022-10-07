@@ -15,12 +15,12 @@ Arrow functions introduce concise body syntax, or implicit return. This allows t
 //How does it work?
 
 hello = function() {
-    return "Hello World!";   //A normal function.
-  }
+  return ("Hello World!") ;  //A normal function.
+}
 
 //----------------------------------------------------------------------------------------------------------
 
-hello = val => "Hello " + val; //The same function above but with arrow function '=>'.
+hello = val => "Hello " + val ; //The same function above but with arrow function '=>'.
 
 /* 
 
