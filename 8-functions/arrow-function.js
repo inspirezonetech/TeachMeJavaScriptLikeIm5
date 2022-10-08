@@ -16,7 +16,7 @@ Arrow functions introduce concise body syntax, or implicit return. This allows t
 
 hello = function() {
   return ("Hello World!") ;  //A normal function.
-}
+};
 
 //----------------------------------------------------------------------------------------------------------
 
