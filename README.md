@@ -23,7 +23,7 @@ Each file contains:
 | **Variables**                              |                                                                             |
 | Create variables                           | [creating-variables.js](2-variables/creating-variables.js)                  |
 | JavaScript Numbers                         | [numbers.js](2-variables/numbers.js)                                        |
-| Booleans in JavaScript                     | [booleans.js](2-variables/booleans.js)                                        |
+| Booleans in JavaScript                     | [booleans.js](2-variables/booleans.js)                                      |
 | Strings in JavaScript                      | [strings.js](2-variables/strings.js)                                        |
 | **Arrays**                                 |                                                                             |
 | Declaring an array                         | [declaring-arrays.js](3-arrays/declaring-arrays.js)                         |
@@ -37,6 +37,7 @@ Each file contains:
 | Operators in JavaScript                    | [operators.js](5-operators/operators.js )                                   |
 | **Conditions**                             |                                                                             |
 | Conditionals                               | [conditions.js](6-conditions/conditions.js )                                |
+| Ternary Operator                           | [ternay-operator.js](6-conditions/ternary-operator.js)                      | 
 | **Loops**                                  |                                                                             |
 | To understand the working of for-loops     | [for-loop.js](7-loops/for-loops.js )                                        |
 | Breaking loops - break instruction         | [using-break.js](7-loops/using-break.js )                                   |
@@ -45,5 +46,6 @@ Each file contains:
 | **Functions**                              |                                                                             |
 | Functions in JavaScript                    | [functions.js](8-functions/functions.js )                                   |
 | JavaScript's common built-in functions     | [built-in-functions.js](9-common-built-in-functions/built-in-functions.js ) |
+| Arrow Functions                            | [arrow-functions.js](8-functions/arrow-function.js)                         | 
 
 
