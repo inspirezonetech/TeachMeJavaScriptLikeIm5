@@ -12,7 +12,8 @@ Syntax of do...while:
 
 do {
   // loop body
-} while (condition);
+} 
+while (condition);
 
 
 Difference between while and do...while:
@@ -35,7 +36,8 @@ do{                         // Entering the loop once without checking the condi
     console.log(i);     
     i = i + 2;              // Updating the variable value at every iteration
 
-}while(i<30)                // Condition checked at the end of the loop body. This condition means the loop will execute till a becomes 30.  
+}
+while(i<30);                // Condition checked at the end of the loop body. This condition means the loop will execute till a becomes 30.  
 
 
 /* Output
