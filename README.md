@@ -37,7 +37,7 @@ Each file contains:
 | Operators in JavaScript                    | [operators.js](5-operators/operators.js )                                   |
 | **Conditions**                             |                                                                             |
 | Conditionals                               | [conditions.js](6-conditions/conditions.js )                                |
-| Ternary Operator                           | [ternay-operator.js](6-conditions/ternary-operator.js)                      | 
+| Ternary Operator                           | [ternary-operator.js](6-conditions/ternary-operator.js)                     | 
 | **Loops**                                  |                                                                             |
 | To understand the working of for-loops     | [for-loop.js](7-loops/for-loops.js )                                        |
 | Breaking loops - break instruction         | [using-break.js](7-loops/using-break.js )                                   |
@@ -45,7 +45,7 @@ Each file contains:
 | To understand the working of while-loops   | [while-loops.js](7-loops/while-loops.js )                                   |
 | **Functions**                              |                                                                             |
 | Functions in JavaScript                    | [functions.js](8-functions/functions.js )                                   |
-| JavaScript's common built-in functions     | [built-in-functions.js](9-common-built-in-functions/built-in-functions.js ) |
+| JavaScript's common built-in functions     | [built-in-function.js](9-common-built-in-functions/built-in-functions.js )  |
 | Arrow Functions                            | [arrow-functions.js](8-functions/arrow-function.js)                         | 
 
 
