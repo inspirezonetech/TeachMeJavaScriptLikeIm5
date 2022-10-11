@@ -45,7 +45,7 @@ Each file contains:
 | To understand the working of while-loops   | [while-loops.js](7-loops/while-loops.js )                                   |
 | **Functions**                              |                                                                             |
 | Functions in JavaScript                    | [functions.js](8-functions/functions.js )                                   |
-| JavaScript's common built-in functions     | [built-in-function.js](9-common-built-in-functions/built-in-functions.js )  |
-| Arrow Functions                            | [arrow-functions.js](8-functions/arrow-function.js)                         | 
+| JavaScript's common built-in functions     | [built-in-functions.js](9-common-built-in-functions/built-in-functions.js ) |
+| Arrow Functions                            | [arrow-function.js](8-functions/arrow-function.js)                          | 
 
 
