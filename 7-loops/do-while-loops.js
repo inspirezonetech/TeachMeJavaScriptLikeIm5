@@ -30,14 +30,14 @@ Difference between while and do...while:
 // If we run it till i=30, we will get 32 as well in the output.
 
 
-var i = 0;                  // Initializing a variable to 0
+var i = 0;                  // Initializing variable i to 0
 
 do{                         // Entering the loop once without checking the condition.
     console.log(i);     
     i = i + 2;              // Updating the variable value at every iteration
 
 }
-while(i<30);                // Condition checked at the end of the loop body. This condition means the loop will execute till a becomes 30.  
+while(i<30);                // Condition checked at the end of the loop body. This condition means the loop will execute till i becomes 30.  
 
 
 /* Output
