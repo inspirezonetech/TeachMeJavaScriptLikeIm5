@@ -3,20 +3,24 @@
 
 // 1. Returns the number of elements-
 
-length
+		//length
 
 //example--
 
-fruits.length;
+var fruits = ["Orange", "Apple", "Banana"];
+
+fruits.length=2;
 
 
 
 
 //2. Sorts the array-
 
-sort()
+		//sort();
 
 //example--
+
+var fruits = ["Orange", "Apple", "Banana"];
 
 fruits.sort();
 
@@ -25,9 +29,11 @@ fruits.sort();
 
 // 3. Joins arrays and returns an array with the joined arrays-
 
-concat()
+		//concat();
 
 //example--
+
+var fruits = ["Orange", "Apple", "Banana"];
 
 fruits.concat();
 
@@ -36,9 +42,11 @@ fruits.concat();
 
 // 4. Joins all elements of an array into a string-
 
-join()
+		//join();
 
 //example--
+
+var fruits = ["Orange", "Apple", "Banana"];
 
 fruits.join();
 
@@ -47,8 +55,10 @@ fruits.join();
 
 // 5. Search the array for an element and returns its position-
 
-indexOf()
+		//indexOf();
 
 //example--
+
+var fruits = ["Orange", "Apple", "Banana"];
 
 fruits.indexOf();
