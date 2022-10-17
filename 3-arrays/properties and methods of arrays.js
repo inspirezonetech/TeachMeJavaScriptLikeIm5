@@ -27,11 +27,11 @@ fruits.sort();
 
 
 
-// 3. Joins arrays and returns an array with the joined arrays-
+// 3. Joins arrays and returns an array with the joined arrays :
 
 		//concat();
 
-//example--
+// example
 
 var fruits = ["Orange", "Apple", "Banana"];
 
