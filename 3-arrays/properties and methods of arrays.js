@@ -5,7 +5,7 @@
 
 		//length
 
-//example--
+// example
 
 var fruits = ["Orange", "Apple", "Banana"];
 
