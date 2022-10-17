@@ -1,7 +1,7 @@
 // Some properties and methods of array are :
 
 
-// 1. Returns the number of elements-
+// 1. Returns the number of elements :
 
 		//length
 
