@@ -40,11 +40,11 @@ fruits.concat();
 
 
 
-// 4. Joins all elements of an array into a string-
+// 4. Joins all elements of an array into a string :
 
 		//join();
 
-//example--
+// example
 
 var fruits = ["Orange", "Apple", "Banana"];
 
