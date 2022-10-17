@@ -53,11 +53,11 @@ fruits.join();
 
 
 
-// 5. Search the array for an element and returns its position-
+// 5. Search the array for an element and returns its position :
 
 		//indexOf();
 
-//example--
+// example
 
 var fruits = ["Orange", "Apple", "Banana"];
 
