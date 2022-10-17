@@ -14,11 +14,11 @@ fruits.length=2;
 
 
 
-//2. Sorts the array-
+// 2. Sorts the array :
 
 		//sort();
 
-//example--
+// example
 
 var fruits = ["Orange", "Apple", "Banana"];
 
