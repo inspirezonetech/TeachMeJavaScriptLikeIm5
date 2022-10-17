@@ -24,7 +24,7 @@ let arr = ['Goutham' , 'Korla' , 'Prabhath' , 'Bogam'];
 
  // 1.  syntax :
 
-arr.forEach(callback(element, index, arr), thisValue)
+// arr.forEach(callback(element, index, arr), thisValue)
 
 
 
@@ -35,9 +35,7 @@ console.log(item);  //Goutham Korla Prabhath Bogam will be printed
 } )
  
  
- // 3 .  let us consider other examples as well
- 
- arr.forEach( ( item , index  , array )=>{
+ // 3 .   arr.forEach( ( item , index  , array )=>{
  
  // item is our current element and index is our current index and is arr is the array we are traversing
  
