@@ -1,4 +1,4 @@
-// Some properties and methods of array are--
+// Some properties and methods of array are :
 
 
 // 1. Returns the number of elements-
