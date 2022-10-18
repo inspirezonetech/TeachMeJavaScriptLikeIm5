@@ -9,7 +9,7 @@
 
 var fruits = ["Orange", "Apple", "Banana"];
 
-fruits.length=2;
+fruits.length;
 
 
 
@@ -62,3 +62,13 @@ fruits.join();
 var fruits = ["Orange", "Apple", "Banana"];
 
 fruits.indexOf();
+
+
+
+
+/*
+------------------------------------------------------------------------------------
+ Challenge 1: Find the length of the array Car ["Audi", "BMW", "Ferrari"] using the properties of the array.
+ Challenge 2: Find the postition of the element "BMW" in the array Car ["Audi", "BMW", "Ferrari"] using the properties of the array.
+------------------------------------------------------------------------------------
+*/
