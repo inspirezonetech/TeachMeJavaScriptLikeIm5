@@ -9,7 +9,7 @@
 
 var fruits = ["Orange", "Apple", "Banana"];
 
-fruits.length;
+fruits.length=3;
 
 
 
