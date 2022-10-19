@@ -9,7 +9,9 @@
 
 var fruits = ["Orange", "Apple", "Banana"];
 
-console.log(fruits.length); // output : 3
+console.log(fruits.length); 
+
+// Output : 3
 
 
 
@@ -22,7 +24,9 @@ console.log(fruits.length); // output : 3
 
 var fruits = ["Orange", "Apple", "Banana"];
 
-fruits.sort();
+console.log(fruits.sort());  
+
+// Output : ['Apple', 'Banana', 'Orange']
 
 
 
@@ -34,8 +38,11 @@ fruits.sort();
 // example
 
 var fruits = ["Orange", "Apple", "Banana"];
+var car = ["Audi", "BMW", "Ferrari"];
 
-fruits.concat();
+console.log(fruits.concat(car));
+
+// Output : [ 'Orange', 'Apple', 'Banana', 'Audi', 'BMW', 'Ferrari' ]
 
 
 
@@ -48,7 +55,9 @@ fruits.concat();
 
 var fruits = ["Orange", "Apple", "Banana"];
 
-fruits.join();
+console.log(fruits.join());
+
+// Output : Orange,Apple,Banana
 
 
 
@@ -61,7 +70,10 @@ fruits.join();
 
 var fruits = ["Orange", "Apple", "Banana"];
 
-fruits.indexOf();
+console.log(fruits.indexOf("Apple"));
+
+// Output : 1
+
 
 
 
