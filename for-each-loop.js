@@ -22,20 +22,20 @@ let arr = ['Goutham' , 'Korla' , 'Prabhath' , 'Bogam'];
 
  // This parameter is optional, it holds the context to be passed as this to be used while executing the callback function. If the context is passed, it will be used like this for each invocation of the callback function, otherwise undefined is used as default.
 
- // 1.  syntax :
+ //  syntax :
 
 // arr.forEach(callback(element, index, arr), thisValue)
 
 
 
-2 . arr.forEach( function ( item ) {
+ arr.forEach( function ( item ) {
 
 console.log(item);  //Goutham Korla Prabhath Bogam will be printed
 
 } )
  
  
- // 3 .   arr.forEach( ( item , index  , array )=>{
+ //   arr.forEach( ( item , index  , array )=>{
  
  // item is our current element and index is our current index and is arr is the array we are traversing
  
