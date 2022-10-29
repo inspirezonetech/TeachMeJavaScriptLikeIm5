@@ -35,13 +35,13 @@ console.log(item);  //Goutham Korla Prabhath Bogam will be printed
 } )
  
  
- //   arr.forEach( ( item , index  , array )=>{
+  arr.forEach( ( item , index  , array )=>{
  
  // item is our current element and index is our current index and is arr is the array we are traversing
  
  
- //Here we can manipulate our array just like in traditional loops
+ // Here we can manipulate our array just like in traditional loops
  
  array[index] = ''; // user desired value
  
- } )
+  } )
