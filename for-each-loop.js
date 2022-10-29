@@ -32,7 +32,7 @@ let arr = ['Goutham' , 'Korla' , 'Prabhath' , 'Bogam'];
 
 console.log(item);  //Goutham Korla Prabhath Bogam will be printed
 
-} )
+} ) ;
  
  
   arr.forEach( ( item , index  , array )=>{
@@ -44,4 +44,4 @@ console.log(item);  //Goutham Korla Prabhath Bogam will be printed
  
  array[index] = ''; // user desired value
  
-  } )
+  } ) ;
